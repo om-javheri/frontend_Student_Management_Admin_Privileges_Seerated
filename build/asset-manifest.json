@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/om-javheri/frontend_Student_Management_Admin_Privileges_Seerated/static/css/main.13cbc82c.css",
-    "main.js": "/om-javheri/frontend_Student_Management_Admin_Privileges_Seerated/static/js/main.db5eb4d8.js",
-    "static/js/787.cda612ba.chunk.js": "/om-javheri/frontend_Student_Management_Admin_Privileges_Seerated/static/js/787.cda612ba.chunk.js",
-    "static/media/bg.jpg": "/om-javheri/frontend_Student_Management_Admin_Privileges_Seerated/static/media/bg.a7ffe8044a37b86ae616.jpg",
-    "index.html": "/om-javheri/frontend_Student_Management_Admin_Privileges_Seerated/index.html",
-    "main.13cbc82c.css.map": "/om-javheri/frontend_Student_Management_Admin_Privileges_Seerated/static/css/main.13cbc82c.css.map",
-    "main.db5eb4d8.js.map": "/om-javheri/frontend_Student_Management_Admin_Privileges_Seerated/static/js/main.db5eb4d8.js.map",
-    "787.cda612ba.chunk.js.map": "/om-javheri/frontend_Student_Management_Admin_Privileges_Seerated/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/frontend_Student_Management_Admin_Privileges_Seerated/static/css/main.f6a9018b.css",
+    "main.js": "/frontend_Student_Management_Admin_Privileges_Seerated/static/js/main.728788e6.js",
+    "static/js/787.cda612ba.chunk.js": "/frontend_Student_Management_Admin_Privileges_Seerated/static/js/787.cda612ba.chunk.js",
+    "static/media/bg.jpg": "/frontend_Student_Management_Admin_Privileges_Seerated/static/media/bg.a7ffe8044a37b86ae616.jpg",
+    "index.html": "/frontend_Student_Management_Admin_Privileges_Seerated/index.html",
+    "main.f6a9018b.css.map": "/frontend_Student_Management_Admin_Privileges_Seerated/static/css/main.f6a9018b.css.map",
+    "main.728788e6.js.map": "/frontend_Student_Management_Admin_Privileges_Seerated/static/js/main.728788e6.js.map",
+    "787.cda612ba.chunk.js.map": "/frontend_Student_Management_Admin_Privileges_Seerated/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13cbc82c.css",
-    "static/js/main.db5eb4d8.js"
+    "static/css/main.f6a9018b.css",
+    "static/js/main.728788e6.js"
   ]
 }
