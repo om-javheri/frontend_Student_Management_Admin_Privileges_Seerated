@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/om-javheri/frontend_Student_Management_Admin_Privileges_Seerated",
+  "homepage": "http://om-javheri.github.io/frontend_Student_Management_Admin_Privileges_Seerated",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -27,9 +27,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
